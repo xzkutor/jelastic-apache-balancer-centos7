@@ -1,9 +1,4 @@
 #!/bin/bash
-#  $Id$
-#  $Revision$
-#  $Date$
-#  $Author$
-#  $HeadURL$
 
 _SED=`which sed`;
 SERVER_XML_CONFIG="/etc/httpd/conf.d/ssl.conf";
